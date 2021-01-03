@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, p, span, small
 .top_left_search
 {
     position: absolute;
-    left: 172px;
+    left: 55px;
     top:65px;
     width:340px;
 }
@@ -1166,12 +1166,12 @@ h1, h2, h3, h4, h5, h6, p, span, small
     {
         position: absolute;
         left: 75px;
-        top: 8px;
-        width: 218px;
+        top: 30px;
+        width: 300px;
     }
     .lc_main_chall
     {
-        top:-130px !important;
+        top:-930px !important;
         margin: 0px 1rem 0px 1rem !important;
     }
     .terms_head_content
@@ -1253,7 +1253,7 @@ body{
 {
     position: relative;
     top: -700px;
-    margin: 0px 3rem 0px 6rem;
+    margin: 0px 3rem 0px 3rem;
 }
 
 .has-search .form-control {
@@ -1282,7 +1282,7 @@ body{
 .my_profie_main
 {
     background-color: rgb(67 67 67 / 0.5);
-    margin: 8rem 4rem 4rem 9rem;
+    margin: 8rem 2rem 4rem;
     width: 100%;
     display: grid;
     place-items: center;
@@ -1373,7 +1373,7 @@ body{
 .review_pc_main
 {
     padding: 0rem 0px;
-    margin: 0px 4rem 0rem 2rem ;
+    margin: 1rem 4rem 0rem 2rem ;
     color: #fff;
 }
 .review_pc_table
@@ -1395,7 +1395,7 @@ body{
     padding: 1rem 0px;
 }
 .review_pc_main h2{
-    font-size: 48px;
+    font-size: 40px;
     text-align: center;
     margin-bottom: 2rem;
 }
@@ -1728,7 +1728,7 @@ footer{
     .lc_main_chall {
         position: relative;
         top: -870px;
-        margin: 0px 2rem 0px 4rem;
+        margin: 0px 2rem 0px 2rem;
     }
 }
 @media(max-width:768px)
@@ -1746,14 +1746,14 @@ footer{
     
     .profile_details
     {
-        padding-left: 32% !important;
+        padding-left: 30% !important;
     }
 }
 @media(max-width:400px)
 {
     .profile_details
     {
-        padding-left: 20% !important;
+        padding-left: 28% !important;
     }
 }
 .challanges_details
